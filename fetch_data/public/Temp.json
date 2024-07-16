@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-07-17",
+    "temperatureC": -4,
+    "temperatureF": 25,
+    "summary": "Hot"
+  },
+  {
+    "date": "2024-07-18",
+    "temperatureC": 39,
+    "temperatureF": 102,
+    "summary": "Bracing"
+  },
+  {
+    "date": "2024-07-19",
+    "temperatureC": 35,
+    "temperatureF": 94,
+    "summary": "Chilly"
+  },
+  {
+    "date": "2024-07-20",
+    "temperatureC": 34,
+    "temperatureF": 93,
+    "summary": "Freezing"
+  },
+  {
+    "date": "2024-07-21",
+    "temperatureC": -9,
+    "temperatureF": 16,
+    "summary": "Cool"
+  }
+]
